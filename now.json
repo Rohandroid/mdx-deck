@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mdx-deck droid",
+  "builds": [
+    {
+      "src": "deck.mdx",
+      "use": "@now/mdx-deck"
+    }
+  ]
+}
